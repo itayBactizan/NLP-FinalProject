@@ -1,0 +1,48 @@
+מיפוי מילים של פעולות - דניאל
+תסריט שיחה - דניאל
+פונקציונאליות של ה API - דניאל
+לוודא מענה על השאלות שעלו במועד ההקמה - יצורפו בהמשך
+לעבוד על זיהוי שאלה
+לתמוך בעיר, ארץ
+
+
+
+
+
+
+
+
+20 - שאלות פשוטות על מזג אויר
+Wheather forecast in Tel aviv
+How hot is it in Herzliya
+Today’s temperature in Netanya
+Moist in Hadera
+How may degrees tonight in Hadera
+	Ofakim
+Weekly forecast for Ramat Hashron
+Israel desert forecast
+Weather in Ramat gan
+Moist in Givataim
+Wave height in Ashdod
+Moist ashkelon
+Night degrees in Eilat
+10 שאלות מורכבות על מזג אויר
+Newt 10 days forecast in Herzliya and Raanana
+Is there a weather forecast on Herzliya
+Would like to get weather forecast on Hadera next week
+North Israel weather
+Monthly average forecast for north israel
+Monthly average forecast on Thailand
+
+10 שאלות שגויות לבדיקה מה ניתן
+What are the optional cities for weather forecast
+Who is the first prime minister of Israel
+Who where the 3 stooges
+What is a banana
+Who was Napoleon
+When was photography invented
+Are there aliens
+בדיקה על תוצרי שליפה במקרה של עיר שקיימת ביותר ממדינה אחת
+	במשלוח של עיר כמו PARIS, התקבלו תוצאות הן על צרפת והן ארצות הברית.
+איזה פונקציונאליות נוספת ה API יודע לתת - כרגע נבחר API אחד שיודע לעבוד עם עיר בלבד.
+להבין את שיטות העבודה של ה API (מה קורה במידה ומבקשים תחזית “מחר” - מה הוא יודע להחזיר) - לא רלבנטי עובדים עם API בסיסי
