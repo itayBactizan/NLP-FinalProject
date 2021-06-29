@@ -1,8 +1,8 @@
-﻿weather,description
+﻿weather,all
 rain,description
 cloud,description
 rainbow,description
-temperature,temp
+temperature,main
 pressure,pressure
 overcast,description
 shower,description
@@ -11,8 +11,8 @@ dry,description
 tornado,description
 sunset,sunset
 humidity,humidity
-cold,temp
-heat,temp
+cold,main
+heat,main
 wind,wind
 cloudy,clouds
 heat wave,description
@@ -23,16 +23,16 @@ lightning,description
 blustery,description
 thunder,description
 snow,description
-heat index,description
+heat index,main
 thunderstorm,description
 downpour,description
 drought,description
 tropical,description
 water cycle,description
-temperate,temp
+temperate,main
 moisture,humidity
 drizzle,description
-warm,temp
+warm,main
 hail,description
 icicle,description
 climate,description
@@ -47,7 +47,7 @@ mist,description
 isobar,description
 cold snap,description
 condensation,description
-forecast,description
+forecast,all
 ice storm,description
 freeze,description
 barometric,description
