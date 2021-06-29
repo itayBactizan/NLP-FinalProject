@@ -1,0 +1,83 @@
+﻿weather,description
+rain,description
+cloud,description
+rainbow,description
+temperature,temp
+pressure,pressure
+overcast,description
+shower,description
+sunrise,sunrise
+dry,description
+tornado,description
+sunset,sunset
+humidity,humidity
+cold,temp
+heat,temp
+wind,wind
+cloudy,clouds
+heat wave,description
+fog,descritpion
+breeze,wind
+humid,humidity
+lightning,description
+blustery,
+thunder,description
+snow,description
+heat index,description
+thunderstorm,description
+downpour,description
+drought,description
+tropical,description
+water cycle,description
+temperate,temp
+moisture,humidity
+drizzle,description
+warm,temp
+hail,description
+icicle,description
+climate,description
+storm,description
+flood,description
+muggy,description
+gale,description
+flash flood,description
+atmosphere,description
+cold front,description
+mist,description
+isobar,description
+cold snap,description
+condensation,description
+forecast,description
+ice storm,description
+freeze,description
+barometric,description
+gust,description
+snowfall,description
+whirlwind,description
+hurricane,description
+cyclone,description
+air,description
+balmy,description
+avalanche,description
+air pressure,pressure
+frost,description
+blizzard,description
+spring,description
+smog,description
+ozone,description
+autumn,description
+winter,description
+outlook,description
+summer,description
+storm surge,description
+rain gauge,description
+low pressure,pressure
+wind chill,wind
+sleet,description
+sky,description
+easterlies,description
+westerlies,description
+dew,description
+surge,description
+monsoon,description
+permafrost,description
