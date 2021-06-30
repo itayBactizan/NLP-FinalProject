@@ -1,8 +1,8 @@
-today,tomorrow,nextWeek
-now,tomorrow,next week
-today,next day,coming week
-tonight,following day,week later
-this morning,one day,following week
-current,,in one week
-currently,,next weekend
-right now,,week later
+today,tomorrow,nextWeek,XDays,WeekDay
+now,tomorrow,next week,next,sunday
+today,next day,coming week,coming,monday
+tonight,following day,week later,,tuesday
+this morning,one day,following week,,Wednesday
+current,,in one week,,Thursday
+currently,,next weekend,,Friday
+right now,,week later,,Saturday
